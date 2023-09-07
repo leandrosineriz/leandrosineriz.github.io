@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff08e75d.css",
+    "main.js": "/static/js/main.2ce89853.js",
+    "static/js/787.b9372a89.chunk.js": "/static/js/787.b9372a89.chunk.js",
+    "static/media/rymEnter.png": "/static/media/rymEnter.39a9b7415dd50cceed75.png",
+    "index.html": "/index.html",
+    "main.ff08e75d.css.map": "/static/css/main.ff08e75d.css.map",
+    "main.2ce89853.js.map": "/static/js/main.2ce89853.js.map",
+    "787.b9372a89.chunk.js.map": "/static/js/787.b9372a89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff08e75d.css",
+    "static/js/main.2ce89853.js"
+  ]
+}
